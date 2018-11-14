@@ -3,6 +3,7 @@
 /// <reference path="ped_hashes.d.ts" />
 /// <reference path="vehicle_hashes.d.ts" />
 /// <reference path="weapon_hashes.d.ts" />
+/// <reference path="shards.d.ts" />
 
 // -------------------------------------------------------------------------
 // Custom types
